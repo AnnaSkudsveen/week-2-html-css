@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#about {
+    background-color: darkgreen; 
+    color: white; 
+    padding: 16px; 
+    border-radius: 6px;"
+}
+
+#projects {
+    background-color: darkblue; 
+    color: white; 
+    padding: 16px; 
+    border-radius: 6px;" 
+}
+
+.contact-heading {
+    color: white;
+    padding: 26px;
+    background-color: plum;
+    border-radius: 6px;
+}
+a {
+    text-decoration: none;
+    color: darkgreen;
+}
+a:hover {
+    text-decoration: underline;
+    color: palegreen;
+}
+
+.contact-paragraph {
+    color: white;
+    padding: 26px;
+    background-color: plum;
+    border-radius: 6px;
+    margin: 8px;
+}
