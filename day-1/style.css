@@ -1,0 +1,17 @@
+header {
+    height: 128px;
+    width: auto;
+    background-color: red;
+}
+
+main {
+    height: 686px;
+    width: auto;
+    background-color: darkgreen;
+}
+
+footer {
+    height: 210px;
+    width: auto;
+    background-color: blue;
+}
