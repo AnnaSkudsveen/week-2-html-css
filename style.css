@@ -1,3 +1,6 @@
+header {
+    
+}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -29,12 +32,4 @@ a {
 a:hover {
     text-decoration: underline;
     color: palegreen;
-}
-
-.contact-paragraph {
-    color: white;
-    padding: 26px;
-    background-color: plum;
-    border-radius: 6px;
-    margin: 8px;
 }
