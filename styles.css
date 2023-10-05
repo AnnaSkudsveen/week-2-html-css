@@ -1,18 +1,51 @@
 
+*{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
 body{
-    background-color: red;
+    background-color: white;
     margin: 0;
+}
+header{
+    margin: 24px 70px 0 70px;
+    border-radius: 24px;
+    background-color: #19314D;
+    height: 48px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    font-family: 'roboto', sans serif;
 }
 
 .navbar {
-    background-color: green;
-    padding: 0;
+    padding: 0 0 0 1rem;
+}
+
+.navbar li {
+    display: inline-block;
 }
 
 .navbar li a {
-    color: purple;
-
+    color: #C4D7E4;
+    text-decoration: none;
+    padding: 0 1rem 0 1rem;
 }
+.navbar li a:hover {
+    background-color: #C4D7E4;
+    color: #19314D;
+    border-radius: 9px;
+}
+
 header ul {
     margin: 0;
+}
+
+figure
+
+header img {
+    height: auto;
+
 }
