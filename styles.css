@@ -1,21 +1,18 @@
-.banner {
-    position: relative;
-    height: 560px;
+
+body{
+    background-color: red;
+    margin: 0;
 }
 
-.banner-image {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    object-position: 0px -282px;
+.navbar {
+    background-color: green;
+    padding: 0;
 }
 
-.banner-content {
-    position: absolute;
-    color: beige;
-    top: 0%;
-    width: 100%;
-    text-align: center;
-    height: 100%;
-    background-color: rgba(0 0 0 / 50%);
+.navbar li a {
+    color: purple;
+
+}
+header ul {
+    margin: 0;
 }
