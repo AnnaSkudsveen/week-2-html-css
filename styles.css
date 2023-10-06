@@ -1,51 +1,28 @@
 
 *{
-    font-family: 'Barlow Condensed', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
 
-body{
-    background-color: white;
-    margin: 0;
-}
-header{
-    margin: 24px 70px 0 70px;
-    border-radius: 24px;
-    background-color: #19314D;
-    height: 48px;
-    width: auto;
-    display: flex;
-    align-items: center;
-    font-size: 1rem;
-    font-family: 'roboto', sans serif;
+section{
+    background-color: whitesmoke;
+    height: 800px;
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid lightslategray;
 }
 
-.navbar {
-    padding: 0 0 0 1rem;
+form {
+    height: 100%;
 }
 
-.navbar li {
-    display: inline-block;
+label, input, textarea {
+    display: block;
 }
 
-.navbar li a {
-    color: #C4D7E4;
-    text-decoration: none;
-    padding: 0 1rem 0 1rem;
-}
-.navbar li a:hover {
-    background-color: #C4D7E4;
-    color: #19314D;
-    border-radius: 9px;
+#message {
+    resize: none;
 }
 
-header ul {
-    margin: 0;
-}
-
-figure
-
-header img {
-    height: auto;
-
+.container {
+    margin: 16px 0;
 }
